@@ -1,7 +1,4 @@
 # Web-Scraping-ve-Word-Cloud-G-rselle-tirme-Habert-rk
-Bu proje habertürk.com sitesinden web scraping teknikleriyle metinleri çekmeyi ve en sık geçen kelimeleri Word Cloud ile görselleştirerek içerik hakkında hızlı bir genel bakış sağlamayı göstermektedir.
-
-# Türkçe Haber Web Scraping ve Word Cloud Görselleştirme
 
 Bu proje, Python kullanarak **Habertürk sitesinden veri çekme**, **içerik analizi** ve **WordCloud görselleştirmesi** yapmayı göstermektedir.  
 
